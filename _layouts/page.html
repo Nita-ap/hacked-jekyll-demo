@@ -17,10 +17,17 @@
   <link rel="stylesheet" href="{{ 'assets/css/open-color.css' | relative_url }}" />
   <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}" />
   <style>
+    /* The theme absolutely centers <main> in the viewport, which clips
+       the top of any page taller than the screen. Restore normal flow. */
     main.page {
+      position: static;
+      top: auto;
+      left: auto;
+      transform: none;
+      width: auto;
       max-width: 48rem;
       margin: 0 auto;
-      padding: 6rem 1.5rem 4rem;
+      padding: 4rem 1.5rem 4rem;
       line-height: 1.6;
     }
 
