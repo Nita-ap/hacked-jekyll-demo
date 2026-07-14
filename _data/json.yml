@@ -9,3 +9,6 @@
   typed: true
 - key: When
   value: Launching soon ...
+- key: Privacy
+  value: privacy policy
+  url: /privacy-policy/
