@@ -55,4 +55,4 @@ We may update this Privacy Policy from time to time in order to reflect, for exa
 
 ## Contact Us
 
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [support@productlynk.app](mailto:support@productlynk.app).
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [support@productlynk.app](mailto:suport@thelynk.tech).
