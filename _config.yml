@@ -1,0 +1,21 @@
+title: Productlynk
+description: Jekyll microtheme that looks like JSON
+url: ""
+baseurl: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - LICENSE
+  - README.md
+  - vendor/
+  - demo/
+  - docs/
+  - hacked-jekyll.gemspec
+  - Gemfile
+  - Gemfile.lock
+
+sass:
+  sourcemap: never
