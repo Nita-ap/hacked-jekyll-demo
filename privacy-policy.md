@@ -8,7 +8,7 @@ permalink: /privacy-policy/
 
 **Last updated: July 15, 2026**
 
-Product lynk ("the App") provides product syncing and linking between Shopify stores ("the Service") to merchants who use Shopify to power their stores. This Privacy Policy describes how personal information is collected, used, and shared when you install or use the App in connection with your Shopify-supported store.
+Productlynk ("the App") provides product syncing and linking between Shopify stores ("the Service") to merchants who use Shopify to power their stores. This Privacy Policy describes how personal information is collected, used, and shared when you install or use the App in connection with your Shopify-supported store.
 
 ## Personal Information the App Collects
 
