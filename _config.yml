@@ -1,0 +1,21 @@
+title: Productlynk
+description: Shopify product sync app with rules, AI and per-store control
+url: ""
+baseurl: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - LICENSE
+  - README.md
+  - vendor/
+  - demo/
+  - docs/
+  - hacked-jekyll.gemspec
+  - Gemfile
+  - Gemfile.lock
+
+sass:
+  sourcemap: never
